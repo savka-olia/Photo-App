@@ -5626,6 +5626,11 @@ q@^1.1.2:
   resolved "https://registry.yarnpkg.com/q/-/q-1.5.1.tgz#7e32f75b41381291d04611f1bf14109ac00651d7"
   integrity sha512-kV/CThkXo6xyFEZUugw/+pIOywXcDbFYgSct5cT3gqlbkBE1SJdwy6UQoZvodiWF/ckQLZyDE/Bu1M6gVu5lVw==
 
+qjuery@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/qjuery/-/qjuery-1.0.0.tgz#5480a72ca31c96f7f9467c93b5745a9bfc3d55f9"
+  integrity sha512-727e7+BgkxXxhJ4RzQQQ9bSneYqeDAzJNKujJzziVXxYhw7fm8Y5x0fitBixTf7vNIlWyOWviXiTBFFRiREcdA==
+
 qs@6.10.3:
   version "6.10.3"
   resolved "https://registry.yarnpkg.com/qs/-/qs-6.10.3.tgz#d6cde1b2ffca87b5aa57889816c5f81535e22e8e"
